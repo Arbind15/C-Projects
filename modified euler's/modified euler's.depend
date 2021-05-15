@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602163220 source:e:\b.e\4th sem\nm\pratice\modified euler's\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
