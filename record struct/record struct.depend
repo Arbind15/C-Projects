@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549020734 source:d:\documents\c.practical\record struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

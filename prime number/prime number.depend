@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545491625 source:c:\users\arbind mehta\documents\prime number\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

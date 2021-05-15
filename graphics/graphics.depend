@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545923164 source:c:\users\arbind mehta\skydrive\documents\practical\graphics\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+
+1550403251 source:d:\documents\c.practical\graphics\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+

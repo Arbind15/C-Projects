@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545577499 source:c:\users\arbind mehta\documents\fil\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

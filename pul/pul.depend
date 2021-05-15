@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552736673 source:d:\documents\c.practical\pul\main.c
+	<stdio.h>
+	<stdlib.h>
+

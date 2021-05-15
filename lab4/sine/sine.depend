@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547393090 source:c:\users\arbind mehta\skydrive\documents\c.practical\lab4\sine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

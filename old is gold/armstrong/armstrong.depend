@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545392807 source:c:\users\arbind mehta\documents\armstrong\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541215849 source:c:\users\arbind mehta\documents\combination calculator\main.c
+	<stdio.h>
+	<conio.h>
+

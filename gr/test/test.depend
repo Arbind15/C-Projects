@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550746334 source:c:\users\hp\onedrive\desktop\gr\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
